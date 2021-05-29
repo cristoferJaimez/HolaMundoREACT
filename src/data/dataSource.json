@@ -1,0 +1,30 @@
+{
+    "producto": [
+        {
+            "serial": "1010", 
+            "nombre": "Esferos",
+            "cantidad": "20"
+        },
+
+        {
+            "serial": "1011", 
+            "nombre": "Cuadernos",
+            "cantidad": "2"
+        },
+        {
+            "serial": "1012", 
+            "nombre": "Borradores",
+            "cantidad": "40"
+        },
+        {
+            "serial": "1015", 
+            "nombre": "Laminas",
+            "cantidad": "20"
+        },
+        {
+            "serial": "1019", 
+            "nombre": "Cartulinas",
+            "cantidad": "70"
+        }
+    ]
+}
