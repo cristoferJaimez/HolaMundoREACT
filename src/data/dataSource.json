@@ -17,6 +17,11 @@
             "cantidad": "40"
         },
         {
+            "serial": "1020", 
+            "nombre": "Borradores pequeños",
+            "cantidad": "40"
+        },
+        {
             "serial": "1015", 
             "nombre": "Laminas",
             "cantidad": "20"
