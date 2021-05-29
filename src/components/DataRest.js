@@ -21,6 +21,7 @@ function DataRest(props) {
               </tr>
             );
           })}
+          
         </tbody>
       </table>
     </div>
